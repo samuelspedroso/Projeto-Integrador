@@ -39,3 +39,12 @@
 
 # Protótipos de interface de sistema de cadastro de *PROFESSOR*
 
+## Cenário principal
+![Cenário principal professor](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/91ee76ca-9884-42c3-a7b2-86e07c0fc719)
+
+## Cenário alternativo 1
+![Cenário alternativo 1 professor](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/e7aa3f75-86d8-4a7e-94e7-501b579a1814)
+
+## Cenário alternativo 2
+![Cenário alternativo 2 professor](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/2b74201e-48c2-4778-8a2e-a17e877166e8)
+
