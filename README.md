@@ -22,3 +22,15 @@
 
 ## Cenário alternativo 2
 ![Cenário alternativo 2 fornecedores](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/4f08ff70-61d3-44f0-89a0-7eb5b226ce4d)
+
+# Protótipos de interface de sistema de cadastro de **pessoas**
+
+## Cenário principal
+![Cenário principal pessoas](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/f09756a2-492c-418d-8104-0c6fba2454a1)
+
+## Cenário alternativo 1
+![Cenário alternativo 1 pessoas](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/bd5c8d45-e7d1-4b49-977c-8881fee5e49e)
+
+## Cenário alternativo 2
+![Cenário alternativo 2 pessoas](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/6566d79a-55e1-4370-b506-96c93768eb34)
+
