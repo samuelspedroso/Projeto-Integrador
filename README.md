@@ -2,7 +2,6 @@
 
 # Protótipos de interface de sistema de cadastro de *ALUNOS*
 
-
 ## Cenário principal
 ![2024-03-10 (2)](https://github.com/samuelspedroso/Projeto-Integrador/assets/162930292/7884f3c5-0194-4c74-b49e-c1a0301eab01)
 
@@ -23,7 +22,7 @@
 ## Cenário alternativo 2
 ![Cenário alternativo 2 fornecedores](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/4f08ff70-61d3-44f0-89a0-7eb5b226ce4d)
 
-# Protótipos de interface de sistema de cadastro de *PESSOAS*
+# Protótipos de interface de sistema de cadastro de *PESSOA FISICA*
 
 ## Cenário principal
 ![Cenário principal pessoas](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/f09756a2-492c-418d-8104-0c6fba2454a1)
@@ -33,4 +32,10 @@
 
 ## Cenário alternativo 2
 ![Cenário alternativo 2 pessoas](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/6566d79a-55e1-4370-b506-96c93768eb34)
+
+# Protótipos de interface de sistema de cadastro de *PESSOA JURIDICA*
+
+![Cenário principal juridica](https://github.com/samuelspedroso/Projeto-Integrador/assets/163060812/f6d6a632-9a0b-49f1-8945-4e6d50a36784)
+
+# Protótipos de interface de sistema de cadastro de *PROFESSOR*
 
